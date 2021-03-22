@@ -13,6 +13,7 @@ const projects=[
     description: 'Show booking app built with React and redux .Made use of OMBD api.',
     tools: ['React', 'Redux','API'],
     github: 'https://github.com/Mursalin7/BookMyShow_Myclone',
+    link: 'https://bookyourshow-123.netlify.app/',
   },
   {
     title: 'Food Delivery App',
