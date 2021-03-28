@@ -6,7 +6,7 @@ const Project = () => {
     <>
       <section className='my-28 px-5' id='projects'>
         <header className='text-2xl font-bold pt-10'>
-          <h2>Projects</h2>
+          <h2>Personal Projects</h2>
         </header>
         <div className='my-7 space-y-24'>
           {projects.map((project, index) => (
