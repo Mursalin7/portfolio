@@ -21,6 +21,7 @@ const projects=[
     description: 'A basic app which selects restaurants and orders food',
     tools: ['React', 'Redux','Node'],
     github: 'https://github.com/Mursalin7/MyFoodDelivery',
+    link:'https://myfoodhub.netlify.app/',
   },
 ]
 
