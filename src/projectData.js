@@ -5,7 +5,7 @@ const projects=[
     description: 'Tinder clone app for dating with chat support.',
     tools: ['React', 'Firebase'],
     github: 'https://github.com/Mursalin7/MyTinderClone',
-    link: 'https://tinderclone-c021996.web.app/',
+    link: 'https://my-tinder-clone.netlify.app/',
   },
   {
     title: 'Book Your Show',
