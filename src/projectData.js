@@ -1,11 +1,11 @@
 const projects=[
   {
-    title: 'Tinder App',
-    image: './images/Tinder_App',
-    description: 'Tinder clone app for dating with chat support.',
-    tools: ['React', 'Firebase'],
-    github: 'https://github.com/Mursalin7/MyTinderClone',
-    link: 'https://my-tinder-clone.netlify.app/',
+    title: 'AI blog post generator',
+    image: './images/ai_blog_img',
+    description: 'Creates blog post based on given topic using OpenAI API',
+    tools: ['NextJS', 'React'],
+    github: 'https://github.com/Mursalin7/Blog-AI-generator',
+    link: 'https://blog-ai-generator.vercel.app/',
   },
   {
     title: 'Book Your Show',

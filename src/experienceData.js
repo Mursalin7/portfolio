@@ -1,4 +1,4 @@
- export const experience = [
+export const experience = [
   {
     "company": "IBM Pvt Ltd",
     "title": "Full-Stack Developer",
@@ -39,21 +39,6 @@
         "Junit",
         "Jest",
         "CI-CD"
-      ]
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "Trainee",
-      "years": "07.2018 - 09.2018",
-      "mainTech": [
-        "JAVA"
-      ],
-      "technologies": [
-        "Servlet",
-        "JSP",
-        "HTML",
-        "CSS",
-        "Javascript"
       ]
     }
   ]
