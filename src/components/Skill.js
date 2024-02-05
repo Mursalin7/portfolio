@@ -39,6 +39,10 @@ const Skill = () => {
           <img src='./images/icons/mongodb-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           MongoDB
         </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='postgre'>
+          <img src='./images/icons/postgre-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          PostgreSQL
+        </div>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
           <img src='./images/icons/html5-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           HTML 5
@@ -55,9 +59,21 @@ const Skill = () => {
           <img src='./images/icons/typescript-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           Typescript
         </div>
-        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='CI - CD'>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='NextJS'>
+          <img src='./images/icons/nextjs-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          NextJS
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Docker'>
           <img src='./images/icons/docker-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
-          CI - CD
+          Docker
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Kubernetes'>
+          <img src='./images/icons/k8s-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Kubernetes
+        </div>
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='openshift'>
+          <img src='./images/icons/openshift-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Openshift
         </div>
       </div>
     </section>

@@ -23,7 +23,7 @@ export const experience = [
     {
       "company": "Tata Consultancy Services",
       "title": "Full-Stack Developer",
-      "years": "09.2018 - present",
+      "years": "09.2018 - 02.2022",
       "mainTech": [
         "ReactJS and JAVA"
       ],
