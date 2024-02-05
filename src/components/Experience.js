@@ -30,7 +30,7 @@ function Experience() {
     return (
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        date={<div className='font-serif' style={{ backgroundColor:'black',color:'#BA8DF6',fontWeight:'bold',fontSize:'20px'}}>{work.years}</div>}
+        date={<div className='font-serif' style={{ width: 'fit-content', backgroundColor:'black', color:'#BA8DF6',fontWeight:'bold',fontSize:'20px'}}>{work.years}</div>}
         iconStyle={{
           background: "#AE944F",
           color: "#fff",
