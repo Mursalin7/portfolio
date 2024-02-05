@@ -2,7 +2,7 @@ export const experience = [
   {
     "company": "IBM Pvt Ltd",
     "title": "Full-Stack Developer",
-    "years": "04.2022 - present",
+    "years": "02.2022 - present",
     "mainTech": [
       "ReactJS and JAVA"
     ],
