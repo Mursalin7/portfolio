@@ -12,9 +12,9 @@ const Project = () => {
           {projects.map((project, index) => (
             <article className='flex flex-wrap md:justify-between md:items-center' key={index}>
               <picture className={index % 2 === 0 ? 'w-full md:w-6/12 shadow-lg ' : 'w-full md:w-6/12 shadow-lg md:order-1'}>
-                <source srcSet={`${project.image}-768.jpg 768w,`} sizes='(min-width: 768px) 50vw, 100vw' type='image/jpg' />
+                <source srcSet={`${project.imageSmall} 768w`} sizes='(min-width: 768px) 50vw, 100vw' type='image/jpeg' />
 
-                <img width='768px' height='575px' loading='lazy' alt={project.title} className='rounded-lg' />
+                <img src={project.image} width='768px' height='575px' loading='lazy' alt={project.title} className='rounded-lg' />
               </picture>
               <div className='flex flex-col overflow-auto  space-y-3 my-3 mx-1 w-full md:w-5/12 '>
                 <h3 className='uppercase font-bold text-lg'>{project.title}</h3>
