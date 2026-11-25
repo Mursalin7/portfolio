@@ -10,7 +10,7 @@ export const experience = [
       "REST API",
       "Redux",
       "JavaScript",
-      "Springboot",
+      "JAVA-Springboot",
       "Node",
       "Docker",
       "Kubernetes",
